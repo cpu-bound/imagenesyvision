@@ -1,0 +1,8 @@
+ipykernel
+ipywidgets
+
+opencv-python
+matplotlib
+numpy
+
+scikit-image
